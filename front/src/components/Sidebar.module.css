@@ -1,0 +1,66 @@
+.container {
+    height: 100%;
+    width: 250px;
+    background-color: red;
+    box-shadow:  0 0 30px 50px;
+}
+
+.sidebar {
+    width: 32%;
+    height: 100%;
+    position: fixed;
+    background-color: white;
+    top: 0PX;
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+    transition: all;
+    animation-duration: 300ms;
+    z-index: 20px;
+    padding: 20px;
+    right: -100%;
+}
+
+.trash {
+    text-align: center;
+    color: white;
+    background-color: rgb(4, 0, 0);
+    width: 22px;
+    height: 22px;
+    padding: 3px;
+    margin-left: 50%;
+   
+}
+
+.trash:hover {
+    cursor: pointer;
+}
+
+.cart {
+    columns: flex;
+    align-items: center;
+    height: 520px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 20px;
+
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    padding: 4;
+    width: 90%;
+}
+
+.sidebar2 {
+    width: 32%;
+    height: 100%;
+    position: fixed;
+    background-color: white;
+    top: 0PX;
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+    transition: all;
+    animation-duration: 300ms;
+    z-index: 20px;
+    right: 0px;
+    padding: 20px;
+}

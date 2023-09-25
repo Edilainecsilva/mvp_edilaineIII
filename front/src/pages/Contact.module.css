@@ -1,0 +1,26 @@
+.contanier{
+    display: flex;
+    width: 90%;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: rgb(255, 253, 250);
+    margin: 0 auto;
+}
+
+.footer_box {
+    margin: 60px;
+    margin-top: 150px;
+    padding-top: 40px;
+    background-color: #f2f2f2;
+    width: 600px;
+    height: 350px;
+    padding: 40px;
+}
+
+.contanier2{
+    margin: 30px;
+    width: 28%;
+    display: inline-block;
+    background-color: #fffeed;
+    padding: 30px;
+}

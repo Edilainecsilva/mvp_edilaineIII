@@ -1,0 +1,52 @@
+.contanier {
+   margin: 20px auto;
+   display: flex;
+   border: 2px solid rgb(167, 167, 167);
+   border-radius: 5px;
+   gap: 16px;
+   min-height: 150px;
+   width: 100%;
+   align-items: center;
+   padding: 10px;
+}
+.contanier2{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.imagem {
+    max-width: 80px;
+}
+
+.title {
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: black;
+    max-width: 240px;
+}
+
+.title:hover {
+    text-decoration: underline;
+}
+
+.close {
+    cursor: pointer;
+    font-size: 1.25rem;
+    line-height: 1.75rem; 
+}
+
+.close:hover {
+    color: brown;
+    
+}
+
+.qtd {
+    display: flex;
+    align-items: center;
+    max-width: 180px;
+    height: 100%;
+    flex: 1 1 0%;
+}
