@@ -46,7 +46,9 @@ O mesmo trata-se de uma loja online, onde é possível vizualizar produtos, vind
 
 # Referências
 Api externa: https://fakestoreapi.com/
+
 Todas as imagens do site e o diagrama utilizados neste projeto, foram feitas e editadas atráves da plataforma: https://www.canva.com
+
 Outros trabalhos que foram inspiração e de grande ajuda para a construção deste mesmo:
 -para a criação do front: https://www.youtube.com/watch?v=lGnuiAZCjuM&t=2694s
 -usei como base meu trabalho anterior: https://github.com/Edilainecsilva/mvp-ehospital
