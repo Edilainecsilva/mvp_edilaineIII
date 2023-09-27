@@ -28,7 +28,7 @@ export default function Footer () {
                     <h2>ESTORE</h2>
                     <Link className={Styles.menu} to={"/"}>Home</Link>
                     <Link className={Styles.menu} to={"/estore"}>EStore</Link>
-                    <Link className={Styles.menu} to={"/pedidos"}>Pedidos</Link>
+                    <Link className={Styles.menu} to={"/contact"}>Atendimento</Link>
                 </div>      
             </section>
 
