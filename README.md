@@ -3,6 +3,10 @@
 Este é um MVP que foi solicitado no curso de **Desenvolvimento Full Stack da PUC RIO**, referente a Sprint: Desenvolvimento Back-end Avançado.
 O mesmo trata-se de uma loja online, onde é possível vizualizar produtos, vindos do componete B e adiciona-los ao carrinho. Também é possível fazer o cadastro, vizualição e remoção de mensagens vindas do componente C.
 
+![project3](https://github.com/Edilainecsilva/mvp_edilaineIII/assets/112878712/9e696b2a-7d94-459d-871e-cda563a0aa38)
+
+
+
 ## Componente A - Front-end
 
  ---
