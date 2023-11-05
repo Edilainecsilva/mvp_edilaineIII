@@ -41,7 +41,7 @@ O mesmo trata-se de uma loja online, onde é possível vizualizar produtos, vind
     O trabalho foi dividido em 2 repositórios. Por favor leia os documentos 'readme' de cada repositório para a execusão dos mesmos.
 
 ## Apresentação e prototipação
-    vídeo do projeto:
+    vídeo do projeto: https://www.youtube.com/watch?v=3dXqNUkRyqE&t=16s
     prototipação utilizando figma: https://www.figma.com/file/Jdt1xkFgVW2kSUJ5pdpnoA/mvp_edilaineIII?type=design&node-id=0%3A1&mode=design&t=zuCyxIhK8M0XTZ5P-1
 
 # Referências
